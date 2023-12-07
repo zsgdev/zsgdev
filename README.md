@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Zhanibek Sundetov:bowtie:
+My name is Zhanibek Sundetov
 
 - :fire:   I’m currently working on Vue.js Laravel Nestjs
 - :hammer: Use frameworks: Vue & Laravel and Angular
